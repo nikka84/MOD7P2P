@@ -115,7 +115,7 @@ div.field {
   font-size: 120%;
 }
 @media (orientation: portrait){
-  main {
+  #main {
    flex-direction: column;
   }
 }
